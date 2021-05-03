@@ -1,2 +1,3 @@
-# sample-repo
-created mainly to use the features of the repository.
+# DEMO
+
+created for the making use of the github tutorials.
